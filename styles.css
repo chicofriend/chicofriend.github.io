@@ -5,3 +5,7 @@ body {
     margin-left: 2%;
     margin-top: 2%;
 }
+#footer {
+    text-align: right; 
+    margin-right: 2%;
+}
