@@ -1,8 +1,11 @@
 body {
     background-color: #f2f2f2;
 }
-#miro {
-    text-align: center;
+iframe {
+    display: block;
+    border-style:none;
+    margin-left: auto;
+    margin-right: auto;
 }
 #header {
     margin-left: 2%;
